@@ -1,3 +1,3 @@
 #Alex Casimiro 
 Mail: acasimiro12@xarxa.fedac.cat
-![Perfil](../img/foto_perfil.jpg)
+![Perfil](../img/foto_perfil_alex.jpg)
